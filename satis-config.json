@@ -5,7 +5,10 @@
         { "type": "vcs", "url": "https://github.com/jeremykendall/php-domain-parser" },
         { "type": "vcs", "url": "https://github.com/jeremykendall/phpctagger" }
     ],
-    "require-all": true,
+    "require": {
+        "jeremykendall/php-domain-parser": ">=0.0.5",
+        "jeremykendall/phpctagger": ">0.0.6"
+    },
     "archive": {
         "directory": "dist",
         "format": "tar"

@@ -1,1 +1,3 @@
 satis
+project/vendor
+project/composer.lock
