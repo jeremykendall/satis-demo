@@ -1,0 +1,8 @@
+{
+    "repositories": [
+        { "type": "composer", "url": "http://satis.dev" }
+    ],
+    "require": {
+        "jeremykendall/php-domain-parser": "0.0.7"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Satis Demo",
+    "homepage": "http://satis.dev",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/jeremykendall/php-domain-parser" },
+        { "type": "vcs", "url": "https://github.com/jeremykendall/phpctagger" }
+    ],
+    "require-all": true,
+    "archive": {
+        "directory": "dist",
+        "format": "tar"
+    }
+}
