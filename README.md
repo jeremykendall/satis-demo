@@ -13,7 +13,7 @@ Satis demo to accompany Composer presentations
 * Use `sample-vhost.conf` to set up your local Satis site
 * Add `127.0.0.1    satis.dev` to your `/etc/hosts'
 * Restart apache
-* `cd project`
+* `cd ../project`
 * Run `composer install`
 * Composer will install dependency from local Satis server
 * WIN
